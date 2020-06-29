@@ -4,7 +4,7 @@
 
 My solutions to the 3.0 version of the rustlings exersises.
 
-'''
+```
 $ rustlings verify
 ✓ Successfully ran exercises/variables/variables1.rs!
 ✓ Successfully ran exercises/variables/variables2.rs!
@@ -71,7 +71,7 @@ $ rustlings verify
 ✓ Successfully tested exercises/conversions/try_from_into.rs
 ✓ Successfully tested exercises/conversions/as_ref_mut.rs
 ✓ Successfully tested exercises/conversions/from_str.rs
-'''
+```
 
 ## Credits
 
